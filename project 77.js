@@ -1,0 +1,13 @@
+var name1 = "dinu";
+ console.log(name1);
+var name2 = "aaqil";
+console.log( name2 );
+var concat = name1.concat(name2);
+console.log(concat);
+var num1 = 100;
+var num2 = 10;
+var sum = num1 * num2 ;
+console.log(sum);
+var math1 = Math.sqrt("10");
+console.log(math1);
+var math2 = Math.pow("10","2");

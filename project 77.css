@@ -1,0 +1,15 @@
+p {
+    text-align: center;
+    padding: 0 10em;
+    border: 2px solid lightgray;
+    background: linear-gradient(lightblue ,lightgreen);
+}
+h1 {
+    text-align: center;
+    padding-bottom: .5em;
+    text-decoration: underline;
+    color: red;
+}
+html body {
+    background-color: lightblue;
+}
